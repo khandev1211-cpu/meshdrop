@@ -1,0 +1,6 @@
+{
+  "name": "MeshDrop",
+  "description": "Lightning-fast, offline-first peer-to-peer file transfer app using Wi-Fi Direct and AES-256 encryption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
